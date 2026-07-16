@@ -1,4 +1,4 @@
-# 📊 Olist Business Intelligence Analysis
+#  Olist Business Intelligence Analysis
 
 Business intelligence project analyzing the Brazilian e-commerce platform **Olist**, answering **39 business questions using SQL** and preparing the ground for a **Power BI dashboard** highlighting key KPIs and indicators.
 
